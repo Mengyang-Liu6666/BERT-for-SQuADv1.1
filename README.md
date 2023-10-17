@@ -7,4 +7,3 @@ section of all notebooks when running on Google Colab.
 ### File Descriptions
 *  `squad11_evaluate.py` is an evaluation script, using SQuAD v1.1.
 *  `SQuADv1_1_BERT_extend.ipynb` contains an walk through of SQuAD, the fine-tuning process of BERT and a data augmentation extension.
-* 
